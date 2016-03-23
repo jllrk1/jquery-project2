@@ -1,0 +1,22 @@
+body {
+    background: #000d1a url(bckgrnd2.jpg) no-repeat right;
+    font-family: Impact, Charcoal, sans-serif;
+    margin: 45px;
+    padding: 5px 5px;   
+}
+header {
+    color: #5C8B8F;
+}
+h1 {
+    text-align: center;
+    color: dodgerblue;
+}
+
+h2 {
+    color: antiquewhite;
+    
+}
+
+h3 {
+    color:darkgray;
+}
