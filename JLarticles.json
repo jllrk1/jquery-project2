@@ -4,39 +4,25 @@
              "name": "South Dakota Vacation",
              "image": "SDakota_Jclimb.jpg",
              "description": "A vacation that will never be forgotten, the best part was rock climbing and mountain biking in Custer State Park",
-             "stats" : [
-                 {
-                     "location" : "Custer State Park, Custer, SD",
+                "location" : "Custer State Park, Custer, SD",
                      "type" : "Vacation",
                      "date" : "7/12/2015"
-                 }
-             ]
          },
          {
              "name": "Infrasound Music Festival",
              "image": "Infrasound2014.jpg",
              "description": "My favorite event that happens twice a year, Infrasound is a family of fans of electronic music, specifically of the deeper bassweight variety of sound. This picture is of the beach stage, 1 of three stages, during one of my favorite artists sets, jPhelpz",
-             "stats" : [
-                 {
-                     "location" : "Camp NCN, Black River Falls, WI",
-                     "type" : "Music Event",
-                     "date" : "6/28/2014"
-                 
-                 }
-             ]
+            "location" : "Camp NCN, Black River Falls, WI",
+            "type" : "Music Event",
+            "date" : "6/28/2014"
          },
          {
             "name": "Disc Golf Disc of the day!",
              "image": "dc-zflx-buzzzss-img.jpg",
              "description": "Today's disc is the ELite Z FLX SS Buzzz, a midrange that flies like a well-seasoned Buzzz right out of the box! Use it to hit pinpoint gaps, and take advantage of its nice glide for super smooth, buttery anhyzers. Buzzz SS is a must have for all Buzzz fans.",
-             "stats" : [
-                 {
-                     "location" : "Sold at GottaGoGottaThrow, Golden Valley, MN",
-                     "type" : "Mid-range disc",
-                     "date" : "10/18/2015"
-                 
-                 }
-             ]
+            "location" : "Sold at GottaGoGottaThrow, Golden Valley, MN",
+            "type" : "Mid-range disc",
+            "date" : "10/18/2015"
          }
  
      ]

@@ -26,7 +26,7 @@ $(function() {
     
     var $featart = $('#feat-articles');
     $featart.on("click", function(){
-        $(this).next().remove();   
+        $(this).children().first().remove();   
         $.getJSON("JLarticles.json")
         .done ( function(data){
             $("aside").removeClass("hide");
@@ -34,6 +34,9 @@ $(function() {
               $("#feat-articles").append("<h3>" + data.JLfeatures[i].name + "</h3>");
                 $("#feat-articles").append("<img src =" + data.JLfeatures[i].image + "></img>");
                  $("#feat-articles").append("<p>" + data.JLfeatures[i].description + "</p>");
+                $("#feat-articles").append("<p>" + data.JLfeatures[i].location + "</p>");
+                $("#feat-articles").append("<p>" + data.JLfeatures[i].type + "</p>");
+                $("#feat-articles").append("<p>" + data.JLfeatures[i].date + "</p>");
                 
             };
         }).fail( function() {

@@ -6,6 +6,32 @@ body {
 }
 header {
     color: #5C8B8F;
+    text-align: center;
+    padding-bottom: 25px;
+}
+#mPage {
+    background: #466C78 url(body-bg.jpg) no-repeat left;    
+    padding: 5px;
+    margin: 20px;
+    border: 5px;
+    height: auto;
+    border-width:thick;
+    position: relative;
+    text-align: center;
+    border-radius: 20%;
+    border-style: inset;
+    border-color: #362427;   
+}
+#feat-articles {
+    background: #466C78 url(bckrnd1.jpg) no-repeat right;
+    padding: 5px;
+    border: 5px;
+    height: inherit;
+    position:inherit;
+    text-align: center;
+    border-radius: 15%;
+    border-style: inset;
+    border-color:aqua;
 }
 h1 {
     text-align: center;
@@ -19,4 +45,8 @@ h2 {
 
 h3 {
     color:darkgray;
+}
+p {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
