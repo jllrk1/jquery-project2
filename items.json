@@ -1,0 +1,39 @@
+{
+    "items": [
+
+        {
+            "title": "Going boating with my family",
+            "description": "I love boating during the summer, it is a nice way to enjoy Minnesotas 10,000 lakes. We usually go to Big island on Lake Minnetonka to relax. Tubing and water skiing is something I enjoy doing on the lake.",
+            "image": "boating.jpg"
+        },
+
+        {
+            "title": "Skydiving",
+            "description": "Fun fact about me: I am scared of heights, although I discovered a new favorite activity while jumping out of a plane.",
+            "image": "aboveclouds.jpg"
+
+
+        },
+
+        {
+            "title": "Video Games",
+            "description": "Gaming is my life when I am fresh out of things to do. Favorite games at the moment are Halo 5: Guardians, Metal Gear Solid V and the Battlefield series.",
+            "image": "halo.png"
+
+
+        },
+
+        {
+            "title": "America",
+            "description": "I love this country and wouldnt wanna live anywhere else.",
+            "image": "flag.jpg"
+        }
+
+
+
+
+
+        ]
+
+
+}
